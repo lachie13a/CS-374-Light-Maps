@@ -2,7 +2,7 @@
 A simple Light Map generator and visualizer written in Python to simulate the creation and use of Light Maps.
 
 ### Requirements:
-`pip install vedo==2025.5.4 pillow tqdm numpy`
+`pip install vedo==2025.5.4 pillow tqdm numpy trimesh`
 
 *Created and tested with Python 3.12.0*
 
